@@ -16,7 +16,7 @@
     "getopts": "2.2.3",
     "inherits": "~2.0.3",
     "interpret": "^1.2.0",
-    "liftoff": "3.0.0",
+    "liftoff": "3.1.0",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
     "pg-connection-string": "2.0.0",
